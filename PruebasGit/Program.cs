@@ -8,5 +8,10 @@ namespace PruebasGit
         {
             Console.WriteLine("Hello World!");
         }
+
+        void PedirEdad()
+        {
+
+        }
     }
 }
