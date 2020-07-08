@@ -10,5 +10,10 @@ namespace PruebasGit
             var name = Console.ReadLine();
             Console.WriteLine($"Hello {name}");
         }
+
+        void PedirEdad()
+        {
+
+        }
     }
 }
